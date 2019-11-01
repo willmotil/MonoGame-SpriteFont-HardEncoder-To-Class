@@ -10,7 +10,8 @@ The text file is basically a ready made copy paste class file.
 There is a method that you call that essentially returns a Spritefont from that class.
 So if you add that generated class to any project no texture is needed.
 No call to content load is needed you don't have to load anything.
-Is it useful ?.. well i made it as a default spritefont essentially a part of monogame.
+
+Is it useful ?.. well i made it as a default fallback spritefont but its neat either way.
 
 If you just want to see the results you can copy paste the below class into a monogame project say below game1 or into a new class.
 This is the resulting output of one i already premade.
