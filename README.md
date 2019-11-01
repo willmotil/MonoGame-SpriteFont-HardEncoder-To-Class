@@ -14,4 +14,6 @@ Is it useful ?.. well i made it as a default spritefont essentially a part of mo
 
 Basically you can copy paste this into any monogame project which is the resulting output of one i already encoded.
 To have simple premade spritefont.
+.
+
 https://github.com/willmotil/MonoGame-SpriteFont-HardEncoder-To-Class/blob/master/Example/ExampleOutput.cs
