@@ -17,3 +17,8 @@ To have simple premade spritefont.
 .
 
 https://github.com/willmotil/MonoGame-SpriteFont-HardEncoder-To-Class/blob/master/Example/ExampleOutput.cs
+
+.
+Basically in loadcontent or were ever call.
+
+SpriteFont font = new HardCodedSpriteFont().GetFont(GraphicsDevice);
