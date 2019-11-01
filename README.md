@@ -5,7 +5,7 @@ So this class you give it a sprite font and call the write method.
 
 What you get is a text file.
 You copy paste that text file into a class in your monogame project or make one with the same name.
-The text file is basically a ready made copy paste class file.
+The text file is basically a ready made copy paste class file that will generate a spritefont instance at runtime from itself.
 
 There is a method that you call that essentially returns a Spritefont from that class.
 So if you add that generated class to any project no texture is needed.
